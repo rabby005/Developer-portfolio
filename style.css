@@ -1,6 +1,26 @@
 .poppins-regular {
     font-family: "Poppins", sans-serif;
-    font-weight: 400;
+    font-weight: 500;
     font-style: normal;
   }
-  
+.orange-color{
+    color: rgb(235, 158, 58);
+}
+section{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding-left: 5%;
+}
+half-width img{
+    width: 80%;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 40px;
+    color: white;
+    font-weight: 700;
+    border-radius: 5px;
+}
