@@ -1,0 +1,35 @@
+.poppins-regular {
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+  }
+.d-flex{
+    display: flex;
+  }
+body{
+    background-color: hsl(34, 52%, 84%);
+    margin: 0px;
+}
+.link-button{
+    color: white;
+    text-decoration: none;
+    border-radius: 5%;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 40px;
+    font-weight: 700;
+}
+.orange-color{
+    color: rgb(243, 176, 51);
+}
+.img-modify{
+    width: 50%;
+    padding-left: 5%;
+}
+.img-modify img{
+    width: 80%;
+}
+/* backrounde image bosason tag css */
+.top-benar{
+   /*  background-image: linear-gradient(white, rgb(250, 234, 205)); */
+   background-image: url(/images/web3.jpg);
+}
