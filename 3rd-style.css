@@ -42,10 +42,17 @@ body{
     /* background-image: url(/images/f2.jpg); */
 }
 .experance-item{
-    border-radius: 10px;
+    /* border-radius: 10px; */
     width: 40%;
     margin-left: 5%;
     margin-right: 5%;
     padding-left: 5%;
     box-shadow: 10px 10px 40px gray;
+    /* border-left: 7px solid blue; */
+}
+#full-developer{
+    border-left: 7px solid tomato;
+}
+#baby-developer{
+    border-left: 7px solid blue;
 }
