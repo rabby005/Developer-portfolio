@@ -3,7 +3,7 @@
     font-weight: 700;
     font-style: normal;
   }
-section{
+.flexable-container{
     display: flex;
     margin-bottom: 100px;
 }
@@ -15,6 +15,12 @@ section{
     padding-left: 10%;
 }
 
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 30px;
+}
 
 .link-button{
     text-decoration: none;
@@ -26,7 +32,20 @@ section{
 }
 .benar-img{
     background-image: url(/images/web3.jpg);
+    /* background-repeat: no-repeat; */
 }
+
 body{
     margin: 0%;
+}
+.experance-area{
+    /* background-image: url(/images/f2.jpg); */
+}
+.experance-item{
+    border-radius: 10px;
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 5%;
+    box-shadow: 10px 10px 40px gray;
 }
