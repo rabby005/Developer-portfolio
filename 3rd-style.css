@@ -5,6 +5,7 @@
   }
 section{
     display: flex;
+    margin-bottom: 100px;
 }
 .orange-color{
     color: orange;
